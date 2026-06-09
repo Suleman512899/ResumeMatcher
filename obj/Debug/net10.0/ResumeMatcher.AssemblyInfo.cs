@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResumeMatcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bba7c00265a37a75edf7ee92ebccb29ddc56a28a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResumeMatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResumeMatcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
